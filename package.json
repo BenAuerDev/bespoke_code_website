@@ -1,0 +1,22 @@
+{
+    "name": "bespoke-code-website",
+    "version": "1.0.0",
+    "description": "Bespoke Code - Custom Development Solutions Website",
+    "main": "index.html",
+    "scripts": {
+        "dev": "live-server --port=3000 --open=/ --entry-file=index.html",
+        "start": "live-server --port=3000 --entry-file=index.html",
+        "build": "mkdir -p dist && cp index.html styles.css script.js CNAME dist/"
+    },
+    "keywords": [
+        "website",
+        "portfolio",
+        "bespoke",
+        "development"
+    ],
+    "author": "Bespoke Code",
+    "license": "MIT",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
