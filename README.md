@@ -9,7 +9,7 @@ A modern, responsive website for Bespoke Code - Custom Development Solutions.
 - ✨ Smooth animations and interactive elements
 - 📝 Contact form with validation
 - 🚀 Floating code elements animation
-- 👥 Client showcase section
+- 👥 Client showcase section (hidden currently)
 
 ## Setup
 
