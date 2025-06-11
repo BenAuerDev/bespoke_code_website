@@ -39,6 +39,8 @@ jobs:
           cp index.html dist/
           cp styles.css dist/
           cp script.js dist/
+          cp -r imprint dist/
+          cp -r privacy dist/
           cp CNAME dist/
           echo "Static website built successfully"
           
